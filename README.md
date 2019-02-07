@@ -7,4 +7,4 @@
 
 
 ## D5
-[1256. [S/W 문제해결 응용] 6일차 - K번째 접미어]()<br>
+[1256. [S/W 문제해결 응용] 6일차 - K번째 접미어](https://github.com/dkyou7/SWExpert/tree/master/1256)<br>
